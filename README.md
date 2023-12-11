@@ -1,16 +1,15 @@
-### Hi there 👋
+Hello world 👋
 
-<!--
-**Saeba33/Saeba33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Charles Proust.  I'm a developer who likes to make cool stuff ! 🤓
 
-Here are some ideas to get you started:
+I started my career working in the army for 3 years.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+After this experience, I became a trainer for a supermarket group. 
+
+Then, I became training manager for a computer software package.
+
+After 12 years working in training and IT support, I decided to move into the world of development, which has long been a passion of mine.
+
+That's why, I trained at Wild Code School to become a Web and Mobile Web developer.
+
+I invite you to discover more by browsing through my portfolio.
