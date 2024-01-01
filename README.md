@@ -1,7 +1,7 @@
 # Hello world 👋
 
 
-My name is **Charles Proust**.  I'm a developer who likes to make cool stuff ! 🤓
+My name is **Charles Proust**.  I'm a developer who likes to make cool stuff ! ![avatar](https://github.com/Saeba33/Saeba33/blob/main/CHARLES.png)
 
 I started my career working in the army for 3 years.
 After this experience, I became a trainer for a supermarket group.
