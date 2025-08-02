@@ -7,7 +7,7 @@ I started my career working in the army for 3 years.
 After this experience, I became a trainer for a supermarket group.
 Then, I became training manager for a computer software package.
 After 12 years working in training and IT support, I decided to move into the world of development, which has long been a passion of mine.
-That's why, I trained at Wild Code School to become a Web and Mobile Web developer.  
+That's why, I trained at Wild Code School to become a Web and Mobile Web developer and now now I'm pursuing my passion to become an application designer and developer.
 
 ---
 <br></br>
